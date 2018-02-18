@@ -1,0 +1,31 @@
+.left{
+    left: 300px !important;
+    width: 5% !important;
+}
+
+.right{
+    right: 300px !important;
+    width: 5% !important;
+}
+
+.description{
+    font-family: "Ubuntu", serif;
+    color: black;
+    margin: 10px auto 10px auto;
+}
+
+.carousel-control-prev-icon {
+    background-image: url('../../../static/images/left-arrow.png');
+    background-size: 100%;
+}
+
+.carousel-control-next-icon {
+    background-image: url('../../../static/images/right-arrow.png');
+    background-size: 100%;
+}
+
+
+
+
+
+

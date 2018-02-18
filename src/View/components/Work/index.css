@@ -1,0 +1,23 @@
+.card{
+    position: inherit;
+    width: 100% !important;
+}
+
+.picture{
+    position: inherit;
+    width: 100%;
+    border: solid #e6e6e6;
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.listItem{
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+}

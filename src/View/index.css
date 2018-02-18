@@ -1,0 +1,20 @@
+section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.child{
+    display: block;
+    justify-content: center;
+    margin: 50px auto auto;
+}
+
+.text{
+    display: block;
+    justify-content: center;
+    margin: 20px auto 10px auto;
+    font-family: "Ubuntu", serif;
+    color: #7b7b7b;
+}
+
