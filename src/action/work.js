@@ -13,13 +13,13 @@ export function show() {
                     {
                         name: "Portfolio",
                         status: "in process",
-                        link: " ",
+                        link: "https://duongtrungkien.github.io/",
                         Image: PortfilioImage,
                     },
                     {
                         name: "DataScienceLog",
                         status: "in process",
-                        link: " ",
+                        link: "https://duongtrungkien.github.io/",
                         Image: DSLImage,
                     }
                 ]

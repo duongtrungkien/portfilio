@@ -19,7 +19,7 @@ export default class Skill extends Component{
                                 <a href="https://www.linkedin.com/in/trung-kien-duong-4871a7146/">
                                     <img className="social-icon" src={LinkedInIcon} alt="LinkedIn"/>
                                 </a>
-                                <a href="https://github.com/kienTduong">
+                                <a href="https://github.com/duongtrungkien">
                                     <img className="social-icon" src={GitIcon} alt="Gmail"/>
                                 </a>
                                 <a href="https://www.facebook.com/kien.duongtrung.77">

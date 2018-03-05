@@ -11,23 +11,23 @@ export const initialState = {
         Skills:[
             {
                 name: "React",
-                status: "advance",
+                status: "Can use redux and handle resful API",
             },
             {
                 name: "Python",
-                status: "experience",
+                status: "Have a solid knowledge in Python",
             },
             {
                 name: "C++",
-                status: "junior",
+                status: "Have basic skill in C++",
             },
             {
                 name: "Flask",
-                status: "junior",
+                status: "Use flask to build backend for apps",
             },
             {
                 name: "HTML/CSS",
-                status: "junior"
+                status: ""
             },
             {
                 name: "Linux",
@@ -35,7 +35,7 @@ export const initialState = {
             },
             {
                 name: "SQL",
-                status: "junior"
+                status: ""
             },
             {
                 name: "Git",
